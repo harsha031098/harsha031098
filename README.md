@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Harsha Joshi
 
-🎓 Computer Science Graduate Student at New York University
+🎓 Computer Science Graduate Student at New York University Courant
 
 💻 Passionate about DevOps and Cloud Technologies
 
