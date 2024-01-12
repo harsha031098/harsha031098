@@ -4,7 +4,7 @@
 
 💻 Passionate about DevOps and Cloud Technologies
 
-🌟 Experienced in Software Development at Dell technologies (3 years)
+🌟 Experienced in Software Development at Dell Technologies (3 years)
 
 🔭 Interned as Platform Atchitecture Intern at Weight Watchers
 
