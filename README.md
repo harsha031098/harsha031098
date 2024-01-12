@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Harsha Joshi
+
+🎓 Computer Science Graduate Student at New York University
+
+💻 Passionate about DevOps and Cloud Technologies
+
+🌟 Experienced in Software Development at Dell technologies (3 years)
+
+🔭 Interned as Platform Atchitecture Intern at Weight Watchers
+
+🌐 Check out my projects and let's connect on [LinkedIn](https://www.linkedin.com/in/harsha--joshi/)!
 
 <!--
 **harsha031098/harsha031098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
