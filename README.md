@@ -2,11 +2,11 @@
 
 🎓 Computer Science Graduate Student at New York University Courant
 
+🌟 Software Engineer at Dell Technologies (3 years)
+
+🔭 Interned as Platform Architecture Intern at Weight Watchers
+
 💻 Passionate about DevOps and Cloud Technologies
-
-🌟 Experienced in Software Development at Dell Technologies (3 years)
-
-🔭 Interned as Platform Atchitecture Intern at Weight Watchers
 
 🌐 Check out my projects and let's connect on [LinkedIn](https://www.linkedin.com/in/harsha--joshi/)!
 
